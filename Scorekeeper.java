@@ -1,6 +1,9 @@
+
 /**
- * @Hannah Su
- * @Jan 13 2025
+ * Scorekeeper for Triples
+ * 
+ * @Hannah Su 
+ * @Jan 11
  */
 
 public class Scorekeeper  

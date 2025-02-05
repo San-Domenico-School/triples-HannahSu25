@@ -23,4 +23,8 @@ public class Animations
         }
     }
     
+    public static void shuffle(Card[] cards)
+    {
+        Greenfoot.playSound("shuffle.wav");
+    }
 }
